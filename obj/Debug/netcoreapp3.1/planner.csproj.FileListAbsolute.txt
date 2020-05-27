@@ -1,0 +1,13 @@
+C:\Users\phili\source\C#-C39\planner\bin\Debug\netcoreapp3.1\planner.exe
+C:\Users\phili\source\C#-C39\planner\bin\Debug\netcoreapp3.1\planner.deps.json
+C:\Users\phili\source\C#-C39\planner\bin\Debug\netcoreapp3.1\planner.runtimeconfig.json
+C:\Users\phili\source\C#-C39\planner\bin\Debug\netcoreapp3.1\planner.runtimeconfig.dev.json
+C:\Users\phili\source\C#-C39\planner\bin\Debug\netcoreapp3.1\planner.dll
+C:\Users\phili\source\C#-C39\planner\bin\Debug\netcoreapp3.1\planner.pdb
+C:\Users\phili\source\C#-C39\planner\obj\Debug\netcoreapp3.1\planner.csprojAssemblyReference.cache
+C:\Users\phili\source\C#-C39\planner\obj\Debug\netcoreapp3.1\planner.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\C#-C39\planner\obj\Debug\netcoreapp3.1\planner.AssemblyInfoInputs.cache
+C:\Users\phili\source\C#-C39\planner\obj\Debug\netcoreapp3.1\planner.AssemblyInfo.cs
+C:\Users\phili\source\C#-C39\planner\obj\Debug\netcoreapp3.1\planner.dll
+C:\Users\phili\source\C#-C39\planner\obj\Debug\netcoreapp3.1\planner.pdb
+C:\Users\phili\source\C#-C39\planner\obj\Debug\netcoreapp3.1\planner.genruntimeconfig.cache
